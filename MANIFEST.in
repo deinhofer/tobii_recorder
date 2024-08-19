@@ -1,0 +1,2 @@
+include tobii_recorder_python_wrapper/*.pyd
+include tobii_recorder_python_wrapper/*.dll
