@@ -38,8 +38,13 @@ This project is protected under a proprietary license. See the `LICENSE` file fo
 
 ## Support
 
-For inquiries about licensing, permissions, or any questions related to the use of this software within the course, please contact your course instructors or teaching assistants at the University of Eastern Finland.
+For inquiries about licensing, permissions, or any questions related to the use of this software within the course, please contact your course instructors or teaching assistants.
+
+## Acknowledgments
+
+This project has received funding from the European Union's Horizon Europe research and innovation funding program under grant agreement No 101072410, Eyes4ICU project.
+
+<p align="center"><img src="resources/Funded_by_EU_Eyes4ICU.png" alt="Funded by EU Eyes4ICU" width="500"></p>
 
 ---
-
 Remember: This software is a learning tool. Use it responsibly and ethically, adhering to all course guidelines and data protection principles.
